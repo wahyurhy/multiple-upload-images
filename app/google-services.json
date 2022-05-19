@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "42301957385",
+    "project_id": "multiple-upload-images",
+    "storage_bucket": "multiple-upload-images.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:42301957385:android:9c98040dc44878e5259fd8",
+        "android_client_info": {
+          "package_name": "com.wahyurhy.multipleuploadimages"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "42301957385-mk6u1apnet5r0r0bv2eo601vurpihk4a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCudfVOnH16V7Qlhs1OFx8vAHtAWtYH1Rg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "42301957385-mk6u1apnet5r0r0bv2eo601vurpihk4a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
